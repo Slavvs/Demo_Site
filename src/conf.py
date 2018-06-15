@@ -8,7 +8,7 @@ from recommonmark.transform import AutoStructify
 site_theme_options = {
     'navbar_title': 'Curriculum Docs',
     'navbar_site_name': "Pages",
-    'bootswatch_theme': 'launchcode',
+    'bootswatch_theme': 'codergirl',
 }
 
 project = 'LaunchCode Curriculum Docs'
